@@ -21,3 +21,16 @@ This is the first serious... well, kind of serious... MD project that I have don
    - Sialic acid-bound HA is considered the active conformation of the HA protein. When arbidol binds HA, how does the protein's communication network change?
 
 3. Does oseltamivir impact HA proteins in a manner similar to arbidol?
+
+## Overview of methods:
+
+1. Obtain structure and clean it of any flaws.
+2. Make the APO Structure
+3. Make the oseltamivir bound structure
+4. Make the arbidol bound structure
+5. Make the sialic acid bound structure
+6. Run MD simulations in triplicates
+7. Perform Network Analysis
+8. Perform suboptimal paths analysis
+9. Perform Community analysis
+10. Perform PCA
