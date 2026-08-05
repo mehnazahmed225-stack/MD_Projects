@@ -1,2 +1,2 @@
 # MD_Projects
-This is a repository full of projects I did with MD simulations to showcase skills I have learned and tools I have used. 
+This is the first serious... well kind of serious... MD project that I have done.
