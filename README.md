@@ -1,12 +1,23 @@
 # MD_Projects
-This is the first serious... well kind of serious... MD project that I have done.
+
+This is the first serious... well, kind of serious... MD project that I have done.
+
+<br>
 
 ## Research Questions
-1. What is the nature of the communication between different residues of the HA protein of H5N1 AIV virus bound and unbound to sialic acid.
-\n a. Subquestions:
-    \n i. Which residues are important to the communication of HA protein?
-    \n ii. What are the major movements that the protein makes when bound to sialic acid?
-    \n iii. How do communities change when bound/unbound to sialic acid?
-3. How does the nature of the communication between different residues of the HA protein change when bound to arbidol, a common antiviral compound targeting HA proteins on H5N1, versus when bound to sialic acid?
-  \n  a. Sialic acid bound HA is considered to be the active confirmation of HA protein so then when arbidol binds HA, how does the protein's communication change?
-5. Does oseltamivir have an impact on HA proteins in a similar fashion to arbidol?
+
+1. What is the nature of the communication between different residues of the HA protein of the H5N1 AIV virus when bound and unbound to sialic acid?
+
+   a. Subquestions:
+   
+   - Which residues are important for communication within the HA protein?
+   - What are the major movements that the protein makes when bound to sialic acid?
+   - How do residue communities change when the protein is bound versus unbound to sialic acid?
+
+2. How does communication between different residues of the HA protein change when bound to arbidol, a common antiviral compound targeting HA proteins of H5N1, compared to when bound to sialic acid?
+
+   a. Subquestion:
+   
+   - Sialic acid-bound HA is considered the active conformation of the HA protein. When arbidol binds HA, how does the protein's communication network change?
+
+3. Does oseltamivir impact HA proteins in a manner similar to arbidol?
